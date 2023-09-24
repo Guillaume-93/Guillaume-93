@@ -23,7 +23,11 @@ h1 {
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 1.5em;
+    margin-bottom: 3em;
+}
+
+.loader {
     margin-bottom: 3em;
 }
 
@@ -32,6 +36,6 @@ p {
         font-size: 1.5em;
     }
     p {
-        font-size: 1em;
+        font-size: 1.2em;
     }
 }
