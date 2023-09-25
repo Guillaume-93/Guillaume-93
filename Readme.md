@@ -15,7 +15,7 @@
    }
    ```
 
->## Je fais partie de la promo Gyozas 😄 [ICI MON FUTUR PORTFOLIO](https://guillaume-93.github.io/Guillaume-93/)
+>## Je fais partie de la promo Gyoza 😄 [ICI MON FUTUR PORTFOLIO](https://guillaume-93.github.io/Guillaume-93/)
 
 ![Gyozas](https://media.licdn.com/dms/image/D4E22AQEzDtUEe8tk7g/feedshare-shrink_1280/0/1694090893744?e=1697068800&v=beta&t=WMR2i9dpmiS4qh13t5M4fhyfITLsgnPqmBxbWTb7urg)
 
