@@ -4,7 +4,7 @@
 - C'est une formation intensive de 6 mois qui débouche sur un titre professionnel équivalent bac + 2 !
 
    ``` js
-   for (const count = 0; count < 6 mois; count++) {
+   for (let count = 0; count < 6 mois; count++) {
     wake up(7h)
     code(9h)
     eat(12h)
