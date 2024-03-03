@@ -1,18 +1,10 @@
 # Guillaume-93
 
->## En formation avec l'école O'clock pour devenir développeur web spécialisé en javaScript !
-- C'est une formation intensive de 6 mois qui débouche sur un titre professionnel équivalent bac + 2 !
 
-   ``` js
-   for (let count = 0; count < 6 mois; count++) {
-    wake up(7h)
-    code(9h)
-    eat(12h)
-    code(13h)
-    eat(19h)
-    code(19h30)
-    sleep(?)
-   }
-   ```
+Après six mois de formation intensive avec l'école O'clock, je suis fier d'annoncer que je viens de terminer mon parcours pour devenir développeur web spécialisé en JavaScript. Ce fut une période exigeante, ponctuée de réveils matinaux et de longues heures de codage, mais extrêmement enrichissante.
 
->## Je fais partie de la promo Gyoza 😄 [ICI MON FUTUR PORTFOLIO](https://guillaume-93.github.io/Guillaume-93/)
+Mi-avril, je passerai le titre professionnel de développeur web et web mobile, une reconnaissance officielle qui vient sanctionner le niveau Bac +2 que j'ai atteint grâce à cet apprentissage acharné. Mon projet d'apothéose, qui a couronné cette aventure, a représenté un véritable gain en compétences, me permettant de consolider mes acquis et de les mettre en pratique sur un projet concret.
+
+Je suis maintenant prêt à plonger dans le grand bain du développement, armé de toutes les connaissances et de l'expérience que j'ai acquises. C'est avec une grande hâte et beaucoup d'enthousiasme que je me lance dans cette nouvelle phase de ma carrière.
+
+Pour découvrir plus sur mon parcours, mes projets et ce que je suis capable de créer, je vous invite à visiter [mon portfolio](https://guillaume-brechaire-portfolio.netlify.app/).
