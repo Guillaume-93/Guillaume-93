@@ -12,4 +12,4 @@ Je suis maintenant prêt à plonger dans le grand bain du développement, armé 
 
 Découvrez mon parcours et mes réalisations :
 
-[![Portfolio de Guillaume](https://img.shields.io/badge/Mon_Portfolio-000?style=for-the-badge&logo=kuaishou&logoColor=white)](https://guillaume-brechaire-portfolio.netlify.app/)
+[![Portfolio de Guillaume](https://img.shields.io/badge/Mon_Portfolio-000?style=for-the-badge&logo=kuaishou&logoColor=white)](https://guillaume-brechaire.netlify.app/)
