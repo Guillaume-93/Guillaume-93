@@ -1,16 +1,42 @@
-# Fin de Formation et Préparation au Monde Professionnel
+# Guillaume Bréchaire - Développeur Web Freelance
 
-Après six mois de formation intensive avec l'école O'clock, je suis fier d'annoncer que je viens de terminer mon parcours pour devenir développeur web spécialisé en JavaScript. Ce fut une période exigeante, ponctuée de réveils matinaux et de longues heures de codage, mais extrêmement enrichissante.
+Bienvenue sur mon dépôt GitHub ! Je suis **Guillaume Bréchaire**, développeur web freelance et fondateur de [Albalino Web Studio](https://albalino.fr). Je crée des sites web et des applications pour des clients en utilisant des technologies telles que **React**, **Next.js** et **WordPress**.
 
-## Obtention du Titre Professionnel de Développeur Web et Web Mobile
+## À propos de moi
 
-En mi-avril, j'ai passé avec succès le titre professionnel de développeur web et web mobile, une reconnaissance officielle validant mon niveau Bac +2 grâce à cet apprentissage acharné. Mon projet d'apothéose, [L'Atlas des Royaumes Oubliés](https://www.atlasdd.games)
- qui a couronné cette aventure, a représenté un véritable gain en compétences, me permettant de consolider mes acquis et de les mettre en pratique sur un projet concret.
+Développeur full-stack, je me spécialise dans le **front-end** car j'aime concevoir de beaux visuels et offrir des expériences utilisateur intuitives. Passionné par le design et l'innovation, mon objectif est de transformer vos idées en réalités numériques attrayantes.
 
-## Lancement dans le Monde Professionnel en Freelance
+## Projets Réalisés
 
-Je suis maintenant prêt à plonger dans le grand bain du développement en tant que freelance, armé de toutes les connaissances et de l'expérience que j'ai acquises. C'est avec une grande hâte et beaucoup d'enthousiasme que je me lance dans cette nouvelle phase de ma carrière.
+Voici quelques-uns des projets que j'ai réalisés et qui sont accessibles en ligne. Le code source n'est pas disponible pour tous les projets, car certains ont été développés pour des clients ou en collaboration.
 
-Découvrez mon parcours et mes réalisations :
+- **Mon Portfolio** : [guillaume-brechaire.fr](https://guillaume-brechaire.fr)
+- **Albalino Web Studio** : [albalino.fr](https://albalino.fr)
+- **CSK Groupe** : [cskgroupe.fr](https://cskgroupe.fr)
+- **Le Restaurant** : [restaurant-site-name.netlify.app](https://restaurant-site-name.netlify.app)
+- **Ghibliothèque** : [ghibliotheque.guillaume-brechaire.fr](https://ghibliotheque.guillaume-brechaire.fr)
+- **L'Atlas des Royaumes Oubliés** : [atlasdd.games](https://www.atlasdd.games)
 
-[![Portfolio de Guillaume](https://img.shields.io/badge/Mon_Portfolio-000?style=for-the-badge&logo=kuaishou&logoColor=white)](https://guillaume-brechaire.netlify.app/)
+## Compétences Techniques
+
+- **Front-end** : React, Next.js, JavaScript, HTML5, CSS3
+- **Back-end** : Node.js, Express.js
+- **CMS** : WordPress
+- **Outils** : Git, GitHub, Netlify
+- **Design** : UI/UX, Responsive Design, Création de visuels attrayants
+
+## Me Contacter
+
+Si vous avez un projet ou une idée que vous souhaitez réaliser, n'hésitez pas à me contacter :
+
+- **Site Web** : [albalino.fr](https://albalino.fr)
+- **Email** : [contact@albalino.fr](mailto:contact@albalino.fr)
+- **LinkedIn** : [linkedin.com/in/guillaume-brechaire](https://www.linkedin.com/in/guillaume-brechaire)
+
+## Merci de votre visite !
+
+Je suis toujours à la recherche de nouvelles collaborations et défis passionnants. N'hésitez pas à explorer mes projets et à me faire part de vos retours.
+
+---
+
+© 2023 Guillaume Bréchaire • [Albalino Web Studio](https://albalino.fr)
