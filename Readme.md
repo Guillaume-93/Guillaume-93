@@ -12,7 +12,7 @@ Voici quelques-uns des projets que j'ai réalisés et qui sont accessibles en li
 
 - **Mon Portfolio** : [guillaume-brechaire.fr](https://guillaume-brechaire.fr)
 - **Albalino Web Studio** : [albalino.fr](https://albalino.fr)
-- **CSK Groupe** : [cskgroupe.fr](https://cskgroupe.fr)
+- **CSK Unity** : [cskunity.fr](https://cskunity.fr)
 - **Le Restaurant** : [restaurant-site-name.netlify.app](https://restaurant-site-name.netlify.app)
 - **Ghibliothèque** : [ghibliotheque.guillaume-brechaire.fr](https://ghibliotheque.guillaume-brechaire.fr)
 - **L'Atlas des Royaumes Oubliés** : [atlasdd.games](https://www.atlasdd.games)
