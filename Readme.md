@@ -1,42 +1,42 @@
-# Guillaume Bréchaire - Développeur Web Freelance
+# Salut ! Moi c'est Guillaume, développeur web indépendant
 
-Bienvenue sur mon dépôt GitHub ! Je suis **Guillaume Bréchaire**, développeur web freelance et fondateur de [Albalino Web Studio](https://albalino.fr). Je crée des sites web et des applications pour des clients en utilisant des technologies telles que **React**, **Next.js** et **WordPress**.
+Je suis spécialisé dans la création de sites et d'applications web. Je mets mon talent au service des TPE/PME et des particuliers pour donner vie à leurs projets.
 
-## À propos de moi
+## Mon travail
 
-Développeur full-stack, je me spécialise dans le **front-end** car j'aime concevoir de beaux visuels et offrir des expériences utilisateur intuitives. Passionné par le design et l'innovation, mon objectif est de transformer vos idées en réalités numériques attrayantes.
+Ce que je fais au quotidien ? Je code principalement avec React et Next.js, et je maîtrise aussi WordPress pour créer des sites rapidement et sur-mesure. Même si je peux travailler sur toute la chaîne technique (le fameux "full-stack"), j'avoue avoir un faible pour le front-end - j'adore créer des interfaces à la fois belles et fonctionnelles !
 
-## Projets Réalisés
+## Mes réalisations
 
-Voici quelques-uns des projets que j'ai réalisés et qui sont accessibles en ligne. Le code source n'est pas disponible pour tous les projets, car certains ont été développés pour des clients ou en collaboration.
+Vous pouvez découvrir mon travail à travers plusieurs projets en ligne :
 
-- **Mon Portfolio** : [guillaume-brechaire.fr](https://guillaume-brechaire.fr)
-- **Albalino Web Studio** : [albalino.fr](https://albalino.fr)
-- **CSK Unity** : [cskunity.fr](https://cskunity.fr)
-- **Le Restaurant** : [restaurant-site-name.netlify.app](https://restaurant-site-name.netlify.app)
-- **Ghibliothèque** : [ghibliotheque.guillaume-brechaire.fr](https://ghibliotheque.guillaume-brechaire.fr)
-- **L'Atlas des Royaumes Oubliés** : [atlasdd.games](https://www.atlasdd.games)
+* [Mon portfolio](https://guillaume-brechaire.fr)
+* [Le site de mes services](https://albalino.fr)
+* [Une vitrine pour CSK Unity](https://cskunity.fr)
+* [Un template de restaurant](https://restaurant-site-name.netlify.app)
+* [Un site dédié aux films Ghibli](https://ghibliotheque.guillaume-brechaire.fr)
+* [L'Atlas des Royaumes Oubliés](https://www.atlasdd.games)
 
-## Compétences Techniques
+## Mes outils
 
-- **Front-end** : React, Next.js, JavaScript, HTML5, CSS3
-- **Back-end** : Node.js, Express.js
-- **CMS** : WordPress
-- **Outils** : Git, GitHub, Netlify
-- **Design** : UI/UX, Responsive Design, Création de visuels attrayants
+Dans ma boîte à outils, vous trouverez :
 
-## Me Contacter
+* Les indispensables du web moderne : React, Next.js, JavaScript, tailwind, HTML5 et CSS3
+* Des solutions back-end avec Node.js et Express
+* WordPress pour les sites qui en ont besoin
+* Une bonne dose de Git pour la gestion de projet
+* Et bien sûr, un œil aiguisé pour le design et l'expérience utilisateur
 
-Si vous avez un projet ou une idée que vous souhaitez réaliser, n'hésitez pas à me contacter :
+## Contact
 
-- **Site Web** : [albalino.fr](https://albalino.fr)
-- **Email** : [contact@albalino.fr](mailto:contact@albalino.fr)
-- **LinkedIn** : [linkedin.com/in/guillaume-brechaire](https://www.linkedin.com/in/guillaume-brechaire)
+Envie d'échanger sur un projet ? Je serais ravi d'en discuter ! Vous pouvez me contacter via :
 
-## Merci de votre visite !
+* [Mon site pro](https://albalino.fr)
+* [Email](mailto:contact@albalino.fr)
+* [LinkedIn](https://www.linkedin.com/in/guillaume-brechaire)
 
-Je suis toujours à la recherche de nouvelles collaborations et défis passionnants. N'hésitez pas à explorer mes projets et à me faire part de vos retours.
+Je suis toujours partant pour de nouveaux défis créatifs, des missions freelance, ou meme un emploi, alors n'hésitez pas à me solliciter pour vos projets web !
 
 ---
 
-© 2023 Guillaume Bréchaire • [Albalino Web Studio](https://albalino.fr)
+© 2025 Guillaume Bréchaire
